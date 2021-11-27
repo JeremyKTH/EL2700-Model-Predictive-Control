@@ -8,7 +8,7 @@ This is a repo for the course assignments of [EL2700 Model Predictive Control](h
    * [Assignment2](#Assignment2)
    * [Assignment3](#Assignment3)
    * [Assignment4](#Assignment4)
-   * [Final Project](#Final Project)
+   * [Final Project](#FinalProject)
 
 <!--te-->
 
@@ -21,7 +21,7 @@ This is a repo for the course assignments of [EL2700 Model Predictive Control](h
 
 ## Assignment4
 
-## Final Project
+## FinalProject
 
 ### Introduction
 
