@@ -4,11 +4,11 @@ This is a repo for the course assignments of [EL2700 Model Predictive Control](h
 ## Table of contents
 
 <!--ts-->
-   * [Assignment1](#Assignment1)
-   * [Assignment2](#Assignment2)
-   * [Assignment3](#Assignment3)
-   * [Assignment4](#Assignment4)
-   * [Final Project](#FinalProject)
+   * [Assignment1 - Discrete-time Linear Systems](#Assignment1)
+   * [Assignment2 - Finite-time Optimal Control](#Assignment2)
+   * [Assignment3 - Linear Quadratic Regulator](#Assignment3)
+   * [Assignment4 - Model Predictive Control](#Assignment4)
+   * [Final Project - Nonlinear MPC for Astrobee Rendezvous](#FinalProject)
 
 <!--te-->
 
